@@ -9,8 +9,8 @@ This comprehensive, three-page Tableau dashboard provides Blinkit management wit
 
 | Category | Tool/Language | Use |
 | :--- | :--- | :--- |
-| **Visualization** | **Tableau Desktop / Tableau Public** | Interactive dashboard creation and visual analysis. |
-| **Data Cleaning / Pre-processing** | Python (Pandas) / Excel | Data consolidation, cleaning, and calculated field preparation. |
+| **Visualization** | **Tableau Desktop** | Interactive dashboard creation and visual analysis. |
+| **Data Cleaning / Pre-processing** | Excel | Data cleaning, and calculated field preparation. |
 | **Source Data Format** | CSV | Raw input files. |
 
 ---
@@ -70,11 +70,11 @@ The dashboard is divided into three interconnected pages:
 
 | Page Name | Screenshot |
 | :--- | :--- |
-| Executive Summary | ![Page 1](https://github.com/YashMastakar/Tableau-Blinkit-PerformanceDashboard/blob/main/Blinkit_Performance_Dashboard_pg2.png) |
+| Executive Summary | ![Page 1](https://github.com/YashMastakar/Tableau-Blinkit-Performance-Dashboard/blob/main/Blinkit_Performance_Dashboard_pg2.png) |
 |Marketing Performance | ![Page 2](https://github.com/YashMastakar/Tableau-Blinkit-Performance-Dashboard/blob/main/Blinkit_Performance_Dashboard_pg3.png) |
 |Operational Efficiency |![Page 3](https://github.com/YashMastakar/Tableau-Blinkit-Performance-Dashboard/blob/main/Blinkit_Performance_Dashboard_pg4.png)|
 
 
 ## 6. License
 
-This project is licensed under the **APACHE 2.0 LICENSE** - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the **APACHE 2.0 LICENSE** - see the [LICENSE](https://github.com/YashMastakar/Tableau-Blinkit-Performance-Dashboard/blob/main/LICENSE)) file for details.
