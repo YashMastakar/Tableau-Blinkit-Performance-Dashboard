@@ -68,20 +68,13 @@ The dashboard is divided into three interconnected pages:
 
 ### 5. Screenshots
 
-#### Page 1: Customer Experience & Sentiment Pulse
-!
+| Page Name | Screenshot |
+| :--- | :--- |
+| Executive Summary | ![Page 1](https://github.com/YashMastakar/Tableau-Blinkit-PerformanceDashboard/blob/main/Blinkit_Performance_Dashboard_pg2.png) |
+|Marketing Performance | ![Page 2](https://github.com/YashMastakar/Tableau-Blinkit-Performance-Dashboard/blob/main/Blinkit_Performance_Dashboard_pg3.png) |
+|Operational Efficiency |![Page 3](https://github.com/YashMastakar/Tableau-Blinkit-Performance-Dashboard/blob/main/Blinkit_Performance_Dashboard_pg4.png)|
 
-
-#### Page 2: Marketing Performance & Growth Engine
-!
-
-
-#### Page 3: Operational Efficiency & Fulfillment Monitor
-!
-
-
----
 
 ## 6. License
 
-This project is licensed under the **APACHE 2.0 LICENSE** - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the **APACHE 2.0 LICENSE** - see the [LICENSE](LICENSE.md) file for details.
