@@ -75,6 +75,4 @@ The dashboard is divided into three interconnected pages:
 |Operational Efficiency |![Page 3](https://github.com/YashMastakar/Tableau-Blinkit-Performance-Dashboard/blob/main/Blinkit_Performance_Dashboard_pg4.png)|
 
 
-## 6. License
 
-This project is licensed under the **APACHE 2.0 LICENSE** - see the [LICENSE](https://github.com/YashMastakar/Tableau-Blinkit-Performance-Dashboard/blob/main/LICENSE)) file for details.
